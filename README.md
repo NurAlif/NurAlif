@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on game dev
-- 📫 How to reach me ?
+- 📫 How to reach me ? parasyst@gmail.com
 
 
 <!---
